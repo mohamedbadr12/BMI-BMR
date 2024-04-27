@@ -38,7 +38,6 @@ class BmrViewResultBody extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: <Widget>[
-
         Expanded(
           flex: 5,
           child: ReusableCard(
